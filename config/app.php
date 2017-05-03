@@ -167,6 +167,7 @@ return [
          * Package Service Providers...
          */
         Laravel\Tinker\TinkerServiceProvider::class,
+        Zofe\Rapyd\RapydServiceProvider::class,
 
         /*
          * Application Service Providers...
