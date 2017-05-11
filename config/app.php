@@ -168,6 +168,11 @@ return [
          */
         Laravel\Tinker\TinkerServiceProvider::class,
         Zofe\Rapyd\RapydServiceProvider::class,
+        Laracasts\Flash\FlashServiceProvider::class,
+
+        //Lego
+        Collective\Html\HtmlServiceProvider::class,
+        Lego\LegoServiceProvider::class,
 
         /*
          * Application Service Providers...
